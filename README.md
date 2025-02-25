@@ -1,0 +1,2 @@
+# argobooty
+test argocd bootstrap
